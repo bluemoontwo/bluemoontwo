@@ -20,16 +20,16 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://streak-stats.demolab.com/?user=bluemoontwo&hide_total_contributions=true"
+      srcset="https://streak-stats.demolab.com/?user=bluemoontwo&hide_total_contributions=true&card_width=375"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://streak-stats.demolab.com/?user=bluemoontwo&hide_total_contributions=true" />
+    <img src="https://streak-stats.demolab.com/?user=bluemoontwo&hide_total_contributions=true&card_width=375" />
   </picture>
 
   <!-- GitHub Activity Graph -->
   <picture>
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=bluemoontwo&days=28&title_color=58A6FF&line=1F6FEB&point=58A6FF&radius=10&area=true&area_color=58A6FF&theme=github-compact&border_color=2F353D"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=bluemoontwo&days=28&title_color=58A6FF&line=1F6FEB&point=58A6FF&radius=10&area=true&area_color=58A6FF&theme=github-compact"
       media="(prefers-color-scheme: dark)"
     />
     <source
