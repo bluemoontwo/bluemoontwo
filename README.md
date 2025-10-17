@@ -16,7 +16,7 @@
   <!-- GitHub Streak(Commit) Stats -->
   <picture>
     <source
-      srcset="https://streak-stats.demolab.com/?user=bluemoontwo&theme=github-dark-blue&border=2F353D&stroke=2F353D&hide_total_contributions=true&card_width=300"
+      srcset="https://streak-stats.demolab.com/?user=bluemoontwo&theme=github-dark-blue&border=2F353D&stroke=2F353D&hide_total_contributions=true&card_width=340"
       media="(prefers-color-scheme: dark)"
     />
     <source
