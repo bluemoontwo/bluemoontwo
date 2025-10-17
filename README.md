@@ -16,14 +16,14 @@
   <!-- GitHub Streak(Commit) Stats -->
   <picture>
     <source
-      srcset="https://streak-stats.demolab.com/?user=bluemoontwo&theme=github-dark-blue&border=2F353D&stroke=2F353D&card_width=400"
+      srcset="https://streak-stats.demolab.com/?user=bluemoontwo&theme=github-dark-blue&border=2F353D&stroke=2F353D&hide_total_contributions=true&card_width=380"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://streak-stats.demolab.com/?user=bluemoontwo"
+      srcset="https://streak-stats.demolab.com/?user=bluemoontwo&hide_total_contributions=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://streak-stats.demolab.com/?user=bluemoontwo" />
+    <img src="https://streak-stats.demolab.com/?user=bluemoontwo&hide_total_contributions=true" />
   </picture>
 
   <!-- GitHub Activity Graph -->
